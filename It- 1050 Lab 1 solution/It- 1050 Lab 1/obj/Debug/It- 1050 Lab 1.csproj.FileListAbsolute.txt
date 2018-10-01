@@ -1,0 +1,14 @@
+C:\Users\desha\Desktop\It- 1050 Lab 1 solution\It- 1050 Lab 1\obj\Debug\It- 1050 Lab 1.csprojAssemblyReference.cache
+C:\Users\desha\Desktop\It- 1050 Lab 1 solution\It- 1050 Lab 1\obj\Debug\It- 1050 Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\desha\Desktop\It- 1050 Lab 1 solution\It- 1050 Lab 1\bin\Debug\It- 1050 Lab 1.exe.config
+C:\Users\desha\Desktop\It- 1050 Lab 1 solution\It- 1050 Lab 1\bin\Debug\It- 1050 Lab 1.exe
+C:\Users\desha\Desktop\It- 1050 Lab 1 solution\It- 1050 Lab 1\bin\Debug\It- 1050 Lab 1.pdb
+C:\Users\desha\Desktop\It- 1050 Lab 1 solution\It- 1050 Lab 1\obj\Debug\It- 1050 Lab 1.exe
+C:\Users\desha\Desktop\It- 1050 Lab 1 solution\It- 1050 Lab 1\obj\Debug\It- 1050 Lab 1.pdb
+C:\Users\desha\Desktop\IT-1050\It- 1050 Lab 1 solution\It- 1050 Lab 1\bin\Debug\It- 1050 Lab 1.exe.config
+C:\Users\desha\Desktop\IT-1050\It- 1050 Lab 1 solution\It- 1050 Lab 1\bin\Debug\It- 1050 Lab 1.exe
+C:\Users\desha\Desktop\IT-1050\It- 1050 Lab 1 solution\It- 1050 Lab 1\bin\Debug\It- 1050 Lab 1.pdb
+C:\Users\desha\Desktop\IT-1050\It- 1050 Lab 1 solution\It- 1050 Lab 1\obj\Debug\It- 1050 Lab 1.csprojAssemblyReference.cache
+C:\Users\desha\Desktop\IT-1050\It- 1050 Lab 1 solution\It- 1050 Lab 1\obj\Debug\It- 1050 Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\desha\Desktop\IT-1050\It- 1050 Lab 1 solution\It- 1050 Lab 1\obj\Debug\It- 1050 Lab 1.exe
+C:\Users\desha\Desktop\IT-1050\It- 1050 Lab 1 solution\It- 1050 Lab 1\obj\Debug\It- 1050 Lab 1.pdb
